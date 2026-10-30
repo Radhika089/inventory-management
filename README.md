@@ -64,11 +64,22 @@ If your project uses a different start script, use the command defined in `packa
 
 The application provides RESTful API endpoints for:
 
-- Authentication
+- User registration and login
 - Product management
 - Product search and filtering
 - Stock monitoring
 - Role-based access control
+
+## What I Practiced
+
+Through this project, I worked on:
+
+- Designing and building RESTful APIs
+- Implementing JWT authentication and role-based authorization
+- Structuring backend code using routes, controllers, and models
+- Working with MongoDB and Mongoose
+- Implementing search, filtering, sorting, and pagination
+- Applying business rules to inventory operations
 
 ## Author
 
